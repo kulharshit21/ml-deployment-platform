@@ -1,11 +1,5 @@
 # 📘 Project Description — Cloud Product & Platform Engineering
 
-## 🎓 Course: Professional Elective — Cloud Product and Platform Engineering
-**Student:** B.Tech CSE | SRM Institute of Science and Technology  
-**Project Title:** End-to-End Scalable ML Model Deployment Platform with Automated CI/CD Pipeline
-
----
-
 ## 🧠 What This Project Does
 
 This project builds a **production-ready cloud platform** that takes a trained 
